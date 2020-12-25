@@ -1,5 +1,7 @@
 ## Welcome to Manish Kumar's Porfolio
 
+
+
 # Project 1 : [WebBot](https://github.com/manijhariya/WebBot)
 - webscraper for Data Collecting.
 - A toolkit of scripts to automate the data collecting work which can again be used in different Machine learning Project and other Projects..
@@ -33,3 +35,9 @@
 - ChatBot for general chat
 - Created this project to give a features to machine and make them able to talk like a human being with human being capabilities and more...
 - Written in Python with Keras, Numpy packages
+
+
+## Contacts : 
+  Email : mannjhariya@gmail.com
+  LinkedIn : [Manish Kumar](https://www.linkedin.com/in/manish-jhariya)
+  Twitter : [Manish Kumar](https://twitter.com/ManishK29887472)
