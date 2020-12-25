@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Manish Porfolio
 
-You can use the [editor on GitHub](https://github.com/manijhariya/Manish_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Manish_Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project 1 : [WebBot](https://github.com/manijhariya/WebBot)
+- webscraper for Data Collecting.
+- A toolkit of scripts to automate the data collecting work which can again be used in different Machine learning Project and other Projects..
+- Build and written in Python
 
-### Markdown
+# Project 2 : [TalkActives](https://github.com/manijhariya/TalkActives)
+- Full Stack Web-User(ChatBot) Messanger
+- A Full Stack (FrontEnd and BackEnd) for a fully designed messanger which can work as the popular apps like whats app and instagram the difference is that it is a              ChatBot you are not going to talk here to real person but significant talk more than a real person..
+- Build in HTML , CSS, JavaScript , PHP
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Project 3: [CoderKing](https://github.com/manijhariya/CoderKing)
+- A Light weight Text-Editor
+- A fully developed light weight text-editor for general purpose..
+- Build and Written in GCC-9 C++
 
-```markdown
-Syntax highlighted code block
+# Project 4: [Loco-Locator](https://github.com/manijhariya/Loco-Locator)
+- A fully developed location sender of device through e-mail..
+- Written in BASH script
 
-# Header 1
-## Header 2
-### Header 3
+# Project 5: [MISUKernel](https://github.com/manijhariya/MISUKernel)
+- A RTOS kernel with many features
+- A fully developed kernel specially designed in EK-TM4C123GXL (TI Tivs C series MCU board)with ARM Cortex-M4 processor 
+- Developed with IAR workbench in C language
 
-- Bulleted
-- List
+# Project 6: [Hand Written Digit Classifier](https://github.com/manijhariya/HandWrittenDigitClassifier)
+- Hand Written Digit Recognition ML project impliment in Tensorflow(Python)
+- It uses the Tensorflow framework and MNIST Datasets to overcome the complexity of the ML projects it has upload features to upload image than it is going to predict about that image.
+- Written in Python with Tensorflow , MNIST, flask Packages
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manijhariya/Manish_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Project 7: [ChatBot](https://github.com/manijhariya/ChatBot)
+- ChatBot for general chat
+- Created this project to give a features to machine and make them able to talk like a human being with human being capabilities and more...
+- Written in Python with Keras, Numpy packages
