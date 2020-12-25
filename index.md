@@ -38,6 +38,6 @@
 
 
 ## Contacts : 
-  Email : mannjhariya@gmail.com
-  LinkedIn : [Manish Kumar](https://www.linkedin.com/in/manish-jhariya)
-  Twitter : [Manish Kumar](https://twitter.com/ManishK29887472)
+  - Email : mannjhariya@gmail.com
+  - LinkedIn : [Manish Kumar](https://www.linkedin.com/in/manish-jhariya)
+  - Twitter : [Manish Kumar](https://twitter.com/ManishK29887472)
