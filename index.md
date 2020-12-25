@@ -1,6 +1,4 @@
-## Welcome to Manish Porfolio
-
-# Manish_Portfolio
+## Welcome to Manish Kumar's Porfolio
 
 # Project 1 : [WebBot](https://github.com/manijhariya/WebBot)
 - webscraper for Data Collecting.
