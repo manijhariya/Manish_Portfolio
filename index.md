@@ -36,6 +36,14 @@
 - Created this project to give a features to machine and make them able to talk like a human being with human being capabilities and more...
 - Written in Python with Keras, Numpy packages
 
+# Project 8: [Sports Ball Classifier](https://github.com/manijhariya/SportsBallClassifier)
+- Created a tool that classify Sports Ball in three different category.
+- Scraped over 1000 Images for Sports ball from Google, Yahoo, Bing, Ecosia using two simple python scripts
+- Engineered Images to convert those images to data field to store in csv file
+- Approached for naive based Logistic Regression using LogisticRegression model (scikit-learn)
+- Approached for neural network based solution using CNN (Convolutional neural network) in keras
+- Build a client facing API using flask
+
 
 ## Contacts : 
   - Email : mannjhariya@gmail.com
